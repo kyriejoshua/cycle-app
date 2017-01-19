@@ -9,6 +9,8 @@
 
 * Please use node v6.6.0.
 
+### Available Scripts
+
 * Inside that directory, you can run several commands:
 
   * `npm start`
@@ -23,5 +25,7 @@
   * `npm run take-off-training-wheels`
     Removes this tool and copies build dependencies, configuration files
     and scripts into the app directory. If you do this, you can't go back!
-    
+
+### Others
+
 * [check this](https://cycle.js.org/getting-started.html)
