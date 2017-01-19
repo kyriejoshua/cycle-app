@@ -9,17 +9,19 @@
 
 * Please use node v6.6.0.
 
-Inside that directory, you can run several commands:
+* Inside that directory, you can run several commands:
 
-  npm start
+  * `npm start`
     Starts the development server
 
-  npm test
+  * `npm test`
     Start the test runner
 
-  npm run build
+  * `npm run build`
     Bundles the app into static files for production
 
-  npm run take-off-training-wheels
+  * `npm run take-off-training-wheels`
     Removes this tool and copies build dependencies, configuration files
     and scripts into the app directory. If you do this, you can't go back!
+    
+* [check this](https://cycle.js.org/getting-started.html)
